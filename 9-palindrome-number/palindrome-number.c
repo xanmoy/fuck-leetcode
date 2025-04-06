@@ -12,3 +12,5 @@ bool isPalindrome(int x) {
     return x == reversed || x == reversed / 10;
     
 }
+
+
